@@ -1,0 +1,76 @@
+{
+  "name": "react-dynamic-text-gradient",
+  "version": "0.13.1",
+  "description": "An React Gradient Text Component, that dyanmically adjusts colors.",
+  "author": "Stefan Trinh",
+  "private": false,
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "components",
+    "ui",
+    "gradients"
+  ],
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stefantrinh1/react-dynamic-text-gradient.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stefantrinh1/react-dynamic-text-gradient/issues"
+  },
+  "homepage": "",
+  "peerDependencies": {
+    "react": ">= 16.8",
+    "react-dom": ">= 16.8"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.12.1",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "react-scripts": "4.0.3",
+    "styled-components": "^5.3.3",
+    "web-vitals": "^1.0.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.16.0",
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.0",
+    "cross-env": "^7.0.3",
+    "react": ">= 16.8",
+    "react-dom": ">= 16.8"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "rm -rf dist && NODE_ENV=production babel src/lib --out-dir dist --copy-files",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "resolutions": {
+    "styled-components": "^5"
+  }
+}

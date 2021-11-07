@@ -1,0 +1,9 @@
+/* for testing */
+
+.textGradient {
+  height: 200vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
