@@ -1,6 +1,6 @@
 {
   "name": "react-dynamic-text-gradient",
-  "version": "0.13.1",
+  "version": "0.0.1",
   "description": "An React Gradient Text Component, that dyanmically adjusts colors.",
   "author": "Stefan Trinh",
   "private": false,
