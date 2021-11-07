@@ -1,3 +1,3 @@
-import TextGradient from './components/AccessibilityWidget';
+import TextGradient from './components/TextGradient';
 
 export default TextGradient;

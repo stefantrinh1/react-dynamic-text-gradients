@@ -37,9 +37,9 @@ import TextGradient from 'react-dynamic-text-gradients';
 ```
 <TextGradient
     text={"React Dynamic Text Gradients"}
-    as="h1",
+    as={"h1"}
     colors={['rgb(100, 37, 160)', 'rgb(137, 59, 172)', 'red', 'green', 'orange']}
-    style: { fontSize: '5rem', fontFamily:'sans-serif' },
+    style: {{ fontSize: '5rem', fontFamily:'sans-serif' }}
     className={'gradient-title'}
     gradientAngle={120}
 />
