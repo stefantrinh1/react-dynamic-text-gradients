@@ -17,13 +17,13 @@ IMPORTANT: Under the hood, this lib makes use of hooks, therefore, using it requ
 In the command prompt run:
 
 ```
-npm install react-dynamic-text-gradient --save
+npm install react-dynamic-text-gradients --save
 ```
 
 Alternatively you may use yarn:
 
 ```
-yarn add react-dynamic-text-gradient
+yarn add react-dynamic-text-gradients
 ```
 
 ## Usage
@@ -31,12 +31,12 @@ yarn add react-dynamic-text-gradient
 import a single component and use in your JSX
 
 ```
-import TextGradient from 'react-dynamic-text-gradient';
+import TextGradient from 'react-dynamic-text-gradients';
 ```
 
 ```
 <TextGradient
-    text={"React Dynamic Text Gradient"}
+    text={"React Dynamic Text Gradients"}
     as="h1",
     colors={['rgb(100, 37, 160)', 'rgb(137, 59, 172)', 'red', 'green', 'orange']}
     style: { fontSize: '5rem', fontFamily:'sans-serif' },
