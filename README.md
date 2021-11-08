@@ -6,7 +6,7 @@ A Single React Text Component for standout text displays. It adds a gradient to 
 
 CLick here for [DEMO](https://react-dynamic-text-gradients.netlify.app/)
 
-![Animaion Gradient GIF](https://res.cloudinary.com/dpakxm3nm/image/upload/v1636348318/react-dynamic-text-gradients/react-dynamic-text-gradient-vide_uno6ld.gif)
+![Animaion Gradient GIF](https://res.cloudinary.com/dpakxm3nm/image/upload/v1636349028/react-dynamic-text-gradients/react-dynamic-text-gradient-vide_2_sqv9nz.gif)
 
 ## Features
 
