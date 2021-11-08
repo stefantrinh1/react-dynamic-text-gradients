@@ -24,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/stefantrinh1/react-dynamic-text-gradients/issues"
   },
-  "homepage": "",
+  "homepage": "https://react-dynamic-text-gradients.netlify.app",
   "peerDependencies": {
     "react": ">= 16.8",
     "react-dom": ">= 16.8"

@@ -1,6 +1,6 @@
 # React Dynamic Text Gradient
 
-Make your Website Cooler with moving dyanmic gradents on your text,
+Make your website cooler with moving dyanmic gradents on your text,
 
 A Single React Text Component for standout text displays. It adds a gradient to your text and adjusts the colors of the gradient as you scroll for a dynamic UI Effect
 
@@ -39,7 +39,7 @@ import TextGradient from 'react-dynamic-text-gradients';
     text={"React Dynamic Text Gradients"}
     as={"h1"}
     colors={['rgb(100, 37, 160)', 'rgb(137, 59, 172)', 'red', 'green', 'orange']}
-    style: {{ fontSize: '5rem', fontFamily:'sans-serif' }}
+    style={{ fontSize: '5rem', fontFamily:'sans-serif' }}
     className={'gradient-title'}
     gradientAngle={120}
 />
