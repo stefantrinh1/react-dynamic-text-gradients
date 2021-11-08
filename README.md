@@ -4,6 +4,10 @@ Make your website cooler with moving dyanmic gradents on your text,
 
 A Single React Text Component for standout text displays. It adds a gradient to your text and adjusts the colors of the gradient as you scroll for a dynamic UI Effect
 
+CLick here for [DEMO](https://react-dynamic-text-gradients.netlify.app/)
+
+![Animaion Gradient GIF](https://res.cloudinary.com/dpakxm3nm/image/upload/v1636348318/react-dynamic-text-gradients/react-dynamic-text-gradient-vide_uno6ld.gif)
+
 ## Features
 
 - Adjusting Gradient Text On Scroll
